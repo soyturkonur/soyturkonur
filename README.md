@@ -30,15 +30,3 @@
     <img src="https://skillicons.dev/icons?i=linux,debian,docker,git,selenium" alt="Tools" />
   </a>
 </p>
-
----
-
-<h3 align="left">📊 GitHub İstatistiklerim:</h3>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=onuronion&show_icons=true&theme=tokyonight&hide_border=true" alt="Onur's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=onuronion&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  </a>
-</p>

@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, Ben Onur</h1>
-<h3 align="center">Full-Stack Web Geliştirici & Sistem Yöneticisi 💻</h3>
+<h3 align="center">Full-Stack Web Geliştirici 💻</h3>
 
 <p align="center">
   Dış kütüphanelere ve ağır framework'lere bağımlı kalmadan, sıfırdan yüksek performanslı ve güvenli web sistemleri inşa etmeyi seviyorum. Sadece kod yazmakla kalmıyor, geliştirdiğim projelerin barındığı Linux sunucularının yönetimini de yapıyorum.
